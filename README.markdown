@@ -13,7 +13,7 @@ A web page in tribute to the tech entrepreneur/ humanitarian Bill Gates. My inte
 
 ## Associated Links
 
-* [FreeCodeCamp Project Design Document](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+* [FreeCodeCamp 'Build a Tribute Page' Project Design Document](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 * [Original CodePen](https://codepen.io/sam_donaldson2018/pen/dQwoGa).
 
  
