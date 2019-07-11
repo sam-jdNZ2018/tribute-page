@@ -2,7 +2,7 @@
 
 Viewable at [this link](https://sam-jdnz2018.github.io/tribute-page/) hosted on GitHub Pages.
 
-A web page in tribute to the tech entrepreneur/ humanitarian Bill Gates. My interpretation of the 'Tribute Page' project from FreeCodeCamp. Brought into GitHub from CodePen where it was originally created.
+My very first web page. Created in tribute to the tech entrepreneur/ humanitarian Bill Gates. My interpretation of the 'Tribute Page' project from FreeCodeCamp. Brought into GitHub from CodePen where it was originally created.
 
 ## Contributors
 
